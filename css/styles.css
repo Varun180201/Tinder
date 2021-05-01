@@ -148,6 +148,11 @@ font-weight: bolder;
 
 .social-icon{
 margin: 20px 10px;
+color: black;
+}
+
+.social-icon:hover{
+  color: #be0000;
 }
 
 @media (max-width: 1028px){
