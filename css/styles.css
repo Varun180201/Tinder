@@ -128,7 +128,7 @@ font-weight: bolder;
 }
 
 .pricing-column {
-  transition: box-shadow 0.4s ease-in-out;
+  transition: box-shadow 0.3s ease-in-out;
 }
 
 .pricing-column:hover {
