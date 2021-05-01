@@ -127,6 +127,16 @@ font-weight: bolder;
   padding: 100px;
 }
 
+.pricing-column {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.pricing-column:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+
+
+
 .price-text{
   font-size: 3rem;
   line-height: 1.5;
